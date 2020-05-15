@@ -1,0 +1,3 @@
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The project involved drawing inferences from case study, namely - Insurance. The concepts of  CART, Random Forest, Artificial Neural Network are used to draw inferences from this case study. Various performance metrics have been used to validate the performance of predictions on Test & Train sets.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
